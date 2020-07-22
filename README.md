@@ -13,5 +13,12 @@
 ## What I learned
   ###    
       I learn the concepts about widgets, hierarchy and I learn how to put all the widgets together with Scaffold.
-      
+
+## What the app do
+ ###
+      The app split the bill for the number of the people.
+      Example: Bill: R$100
+               People:10
+       So each person will pay 10 bucks.
+     
       
