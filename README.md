@@ -23,5 +23,5 @@
        So each person will pay 10 bucks.
      
 ### 
-🇧🇷 Olá, este é meu aplicativo usando flutter. Decidi criar este aplicativo para colocar em prática as primeiras coisas que eu aprendi sobre o memso. Coisas como Widgets, hierarquia e como colocar tudo isso junto utilzando Scaffold. Para desenvolver o aplicativo utilizei windows 10 e o Android Studio com os plugins do dart e flutter do próprio Android Studio. O funcionamento do aplicativo é bem simples, irá dividir o valor da conta pelo número de pessoas.
+🇧🇷 Olá, este é meu aplicativo usando flutter. Decidi criar este aplicativo para colocar em prática as primeiras coisas que eu aprendi sobre o mesmo. Coisas como Widgets, hierarquia e como colocar tudo isso junto utilzando Scaffold. Para desenvolver o aplicativo utilizei windows 10 e o Android Studio com os plugins do dart e flutter do próprio Android Studio. O funcionamento do aplicativo é bem simples, irá dividir o valor da conta pelo número de pessoas.
       
